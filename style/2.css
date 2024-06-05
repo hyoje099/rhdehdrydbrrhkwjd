@@ -6,14 +6,14 @@ body {
     padding: 10px 50px 30px;
     margin: 50px auto;
     width: 600px;
-    background: #f5d8ed;
-    border: 2px solid #eed0dc;
+    background: #ceebff;
+    border: 2px solid #d0e5ee;
     border-radius: 20px;
     box-shadow: 5px 5px 5px #cbcbcb;
  }
  
  .grid h1 {
-    color: #f092daa7;
+    color: #333;
     font-size: 2.4em;
     text-align: center;
     ;
@@ -21,7 +21,7 @@ body {
  
  #question {
     padding: 10px 2em;
-    background: salmon;
+    background: rgb(114, 207, 250);
     border-radius: 15px;
     font-size: 24px;
     color: #fff;
@@ -38,7 +38,7 @@ body {
  
  .buttons {
     padding: 30px 20px;
-    border: 2px solid #eed0dc;
+    border: 2px solid #d0e5ee;
     border-radius: 20px;
  }
  
@@ -48,8 +48,8 @@ body {
     width: 250px;
     font-size: 16px;
     color: #333;
-    background: #eed0dc;
-    border: 1px solid #ffe3ed;
+    background: #d0e1ee;
+    border: 1px solid #e3f7ff;
     border-radius: 15px;
     cursor: pointer;
     transition: all .2s;
@@ -60,7 +60,7 @@ body {
  }
  
  .btn:hover {
-    background: #c34c74;
+    background: #4ca3c3;
     color: #fff;
  }
  
